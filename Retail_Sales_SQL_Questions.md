@@ -15,7 +15,7 @@ ORDER BY total_sales DESC;
 ```
 
 📷 *Output Screenshot:*  
-![Q1 Output](screenshots/q1_output.png)
+![Q1 Output](https://github.com/upendra911/-Retail-Sales-Analysis-/blob/main/Q1.png)
 
 ---
 
@@ -29,7 +29,7 @@ ORDER BY total_spent DESC;
 ```
 
 📷 *Output Screenshot:*  
-![Q2 Output](screenshots/q2_output.png)
+![Q2 Output](https://github.com/upendra911/-Retail-Sales-Analysis-/blob/main/Q2.png)
 
 ---
 
@@ -42,7 +42,7 @@ GROUP BY gender;
 ```
 
 📷 *Output Screenshot:*  
-![Q3 Output](screenshots/q3_output.png)
+![Q3 Output](https://github.com/upendra911/-Retail-Sales-Analysis-/blob/main/Q3.png)
 
 ---
 
@@ -56,7 +56,7 @@ ORDER BY sale_month;
 ```
 
 📷 *Output Screenshot:*  
-![Q4 Output](screenshots/q4_output.png)
+![Q4 Output](https://github.com/upendra911/-Retail-Sales-Analysis-/blob/main/Q4.png)
 
 ---
 
@@ -70,7 +70,7 @@ ORDER BY total_quantity DESC;
 ```
 
 📷 *Output Screenshot:*  
-![Q5 Output](screenshots/q5_output.png)
+![Q5 Output](https://github.com/upendra911/-Retail-Sales-Analysis-/blob/main/Q5.png)
 
 ---
 
@@ -94,7 +94,7 @@ GROUP BY
 ```
 
 📷 *Output Screenshot:*  
-![Q6 Output](screenshots/q6_output.png)
+![Q6 Output](https://github.com/upendra911/-Retail-Sales-Analysis-/blob/main/Q6.png)
 
 ---
 
@@ -107,7 +107,7 @@ GROUP BY gender;
 ```
 
 📷 *Output Screenshot:*  
-![Q7 Output](screenshots/q7_output.png)
+![Q7 Output](https://github.com/upendra911/-Retail-Sales-Analysis-/blob/main/Q7.png)
 
 ---
 
@@ -120,7 +120,7 @@ GROUP BY category;
 ```
 
 📷 *Output Screenshot:*  
-![Q8 Output](screenshots/q8_output.png)
+![Q8 Output](https://github.com/upendra911/-Retail-Sales-Analysis-/blob/main/Q8.png)
 
 ---
 
@@ -133,7 +133,7 @@ WHERE total_sale > 1000;
 ```
 
 📷 *Output Screenshot:*  
-![Q9 Output](screenshots/q9_output.png)
+![Q9 Output](https://github.com/upendra911/-Retail-Sales-Analysis-/blob/main/Q9.png)
 
 ---
 
@@ -149,7 +149,7 @@ FROM sales;
 ```
 
 📷 *Output Screenshot:*  
-![Q10 Output]("C:\Users\uppi2\OneDrive\Pictures\Screenshots\Screenshot 2025-04-30 204636.png")
+![Q10 Output](https://github.com/upendra911/-Retail-Sales-Analysis-/blob/main/Q10.png)
 
 ---
 
